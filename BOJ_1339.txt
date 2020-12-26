@@ -10,7 +10,6 @@ bool type[26] = { false, };
 bool check[10];
 vector<int> v;			
 
-
 // Brute Force Method
 void cal() {
 	int t_result = 0;
