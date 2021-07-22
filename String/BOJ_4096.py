@@ -1,5 +1,8 @@
 import sys
-             
+
+# if num == num[::-1]: ~~~
+# 펠린드롬인지 쉽게 체크가능
+          
 def check(num):
     flag = True
     for i in range(len(num)):
